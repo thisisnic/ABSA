@@ -8,3 +8,11 @@ This repository contains notebooks in which I experiment with and compare method
 * Converting a dictionary to a pandas DataFrame
 * Using pickle to save Python objects
 
+## Restaurants Task 0.1- Explore Data
+
+* Summarising data
+* Creating wordclouds
+* Bigram and trigram exploration
+* Bar plots
+* Discussion of class imbalance
+
