@@ -25,3 +25,9 @@ This repository contains notebooks in which I experiment with and compare method
 * Feature engineering
 
 
+## Restaurants Task 1.2 - Using CRF to predict aspect terms
+* Train/test split
+* Conditional Random Fields (CRF) model
+* Model evaluation
+* Error analysis
+* Feature analysis
