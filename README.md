@@ -1,3 +1,5 @@
+# ABSA (Aspect Based Sentiment Analysis)
+
 This repository contains notebooks in which I experiment with and compare methods used for different stages of an ABSA (aspect based sentiment analysis) pipeline.
 
 # Skills demonstrated by notebooks
