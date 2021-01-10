@@ -37,3 +37,10 @@ This repository contains notebooks in which I experiment with and compare method
 * Model evaluation
 * Error analysis
 * Feature analysis
+
+## Restaurants Task 3 - Deep Learning with BiDirectional LSTM with CRF
+* Deep Learning
+* PyTorch
+* Sequence padding
+* Bi-LSTM with CRF layers
+* Comparing models and making inferences about differences in results
