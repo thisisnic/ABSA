@@ -24,8 +24,14 @@ This repository contains notebooks in which I experiment with and compare method
 * spaCy token attributes
 * Feature engineering
 
-
 ## Restaurants Task 1.2 - Using CRF to predict aspect terms
+* Train/test split
+* Conditional Random Fields (CRF) model
+* Model evaluation
+* Error analysis
+* Feature analysis
+
+## Restaurants Task 1.3 - Using CRF to predict aspect terms without terms themselves
 * Train/test split
 * Conditional Random Fields (CRF) model
 * Model evaluation
