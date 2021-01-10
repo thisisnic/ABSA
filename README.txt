@@ -16,3 +16,12 @@ This repository contains notebooks in which I experiment with and compare method
 * Bar plots
 * Discussion of class imbalance
 
+## Restaurants Task 1.1 - Formatting the predictions
+
+* IOB format
+* Iteratively working through a problem and developing a solution
+* Using spaCy to convert sentences into documents
+* spaCy token attributes
+* Feature engineering
+
+
